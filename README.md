@@ -9,3 +9,6 @@ A detailed code for the NLP performed and ML model generation is provided in the
 
 A demonstartion of the Web App is provided in the presentation - 
 https://docs.google.com/presentation/d/1MEclSqcyMZQ3Kh1suiUbA1UuStGWcL8B/edit?usp=sharing&ouid=112374692010345808123&rtpof=true&sd=true
+
+
+Dataset- https://www.kaggle.com/datasets/jainpooja/fake-news-detection
